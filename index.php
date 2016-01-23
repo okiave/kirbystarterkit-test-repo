@@ -1,3 +1,4 @@
+// this is a comment
 <?php
 
 define('DS', DIRECTORY_SEPARATOR);
