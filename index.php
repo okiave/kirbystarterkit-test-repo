@@ -1,5 +1,5 @@
 <?php
-
+//this is the top comment
 define('DS', DIRECTORY_SEPARATOR);
 
 // load kirby
