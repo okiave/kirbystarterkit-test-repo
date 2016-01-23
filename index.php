@@ -1,4 +1,3 @@
-// this is a comment
 <?php
 
 define('DS', DIRECTORY_SEPARATOR);
@@ -15,3 +14,5 @@ if(file_exists(__DIR__ . DS . 'site.php')) {
 
 // render
 echo $kirby->launch();
+
+//this is the bottom comment
